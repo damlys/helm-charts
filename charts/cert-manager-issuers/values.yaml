@@ -1,0 +1,4 @@
+email: devops@example.com
+
+ingress:
+  class: nginx
